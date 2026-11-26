@@ -1,3 +1,5 @@
+> **Moved.** `rig-mcp-server` now lives in [pingedbrain/rig-contrib](https://github.com/pingedbrain/rig-contrib/tree/main/crates/rig-mcp-server), together with the other Rig companion crates. This repository is archived.
+
 # rig-mcp-server
 
 Serve [Rig](https://github.com/0xPlaygrounds/rig) agents and tools over the
